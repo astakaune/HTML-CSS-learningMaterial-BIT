@@ -1,2 +1,3 @@
-# html-css-learningMaterial
-HTML-CSS learning material with teacher Dziugas Molis at BIT
+# HTML-CSS learning material 
+With teacher Dziugas Molis
+BIT
