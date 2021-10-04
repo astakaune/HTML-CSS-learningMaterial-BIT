@@ -1,0 +1,26 @@
+<!-- !-- Specify that the overflowed content 
+    for the <p>
+     element should be signaled with an
+      ellipsis (...)
+ -->
+
+ <!DOCTYPE html>
+ <html>
+ <head>
+ <style>
+ p {
+ text-overflow:ellipsis;
+ white-space:nowrap;
+ width:200px;
+ border:1px solid black;
+ overflow:hidden;
+ }
+ </style>
+ </head>
+ <body>
+ 
+ <div style="height:200px"></div>
+ <p title="This paragraph contains"></p>
+ </body>
+ </html>
+ 
